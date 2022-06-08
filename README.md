@@ -1,2 +1,2 @@
 # Projeto com README
-Um projeo de teste com um arquivo README 🐱‍👤 
+Um projeto de teste com um arquivo README 🐱‍👤 
